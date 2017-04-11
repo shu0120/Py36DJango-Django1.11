@@ -2,3 +2,6 @@
 
 # virtualenv
 myvenv/
+
+#blog 
+blog/__pycache__/
